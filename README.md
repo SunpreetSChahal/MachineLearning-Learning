@@ -1,5 +1,6 @@
 # ML Development
 *Slight reduplication in the repo title, my apologies. 
+
 *My personal development within learning - Machine Learning.*
 
 - This repo will be updated as I develop my knowledge within ML, I will also try to implement ML techniques into previous projects that I've worked on. 
