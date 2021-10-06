@@ -1,5 +1,5 @@
 # ML Development
-*Slight reduplication in the repo title, my apologies. 
+*Slight reduplication in the repo title, my apologies.*
 
 *My personal development within learning - Machine Learning.*
 
