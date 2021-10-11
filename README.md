@@ -9,7 +9,7 @@
 
 Personal note(s):
 A ML project isn't just ML, analysing the data is important.
-- The general process could look like:
+The general process could look like:
   1) Understanding the problem 
   2) Collection of data
   3) Data Exploration
