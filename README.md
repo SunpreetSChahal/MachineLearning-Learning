@@ -1,4 +1,4 @@
-# ML Development
+# Machine Learning Development
 
 *This repo will contain my personal development within learning - Machine Learning.*
 
