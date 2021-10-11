@@ -10,14 +10,14 @@
 Personal note(s):
 A ML project isn't just ML, analysing the data is important.
 - The general process could look like:
-  - 1) Understanding the problem 
-  - 2) Collection of data
-  - 3) Data Exploration
-  - 4) Data preparation
-  - 5) Choosing an Algorithm
-  - 6) Training a Model
-  - 7) Testing and Evaluating the Model
-  - 8) End-to-end Deployment
+  1) Understanding the problem 
+  2) Collection of data
+  3) Data Exploration
+  4) Data preparation
+  5) Choosing an Algorithm
+  6) Training a Model
+  7) Testing and Evaluating the Model
+  8) End-to-end Deployment
   - ####50% ( of the process was data analysis, so overlooking what I'm currently learning as a data analyst apprentice mustn't be overlooked.
 
 Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made. 
