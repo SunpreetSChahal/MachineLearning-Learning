@@ -18,6 +18,6 @@ A ML project isn't just ML, analysing the data is important.
   - Training a Model
   - Testing and Evaluating the Model
   - End-to-end Deployment
-  #### 50% of the process was data analysis, so overlooking what I'm currently learning as a data analyst apprentice mustn't be overlooked. 
+  - *50% of the process was data analysis, so overlooking what I'm currently learning as a data analyst apprentice mustn't be overlooked. 
 
 Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made. 
