@@ -8,14 +8,14 @@
 
 
 The general process could look like:
-  1) Understanding the problem 
-  2) Collection of data
-  3) Data Exploration
-  4) Data preparation
-  5) Choosing an Algorithm
-  6) Training a Model
-  7) Testing and Evaluating the Model
-  8) End-to-end Deployment
+  - 1) Understanding the problem 
+  - 2) Collection of data
+  - 3) Data Exploration
+  - 4) Data preparation
+  - 5) Choosing an Algorithm
+  - 6) Training a Model
+  - 7) Testing and Evaluating the Model
+  - 8) End-to-end Deployment
 
 Personal note(s):
 A ML project isn't just ML, analysing the data is important.
