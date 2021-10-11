@@ -7,7 +7,7 @@
 - All material here will be material that has been self-taught, however I will try to keep everything as accurate and as detailed as possible. 
 
 
-## The general process of a project will look like:
+## General Project Process:
   - 1) Understanding the problem 
   - 2) Collection of data
   - 3) Data Exploration
