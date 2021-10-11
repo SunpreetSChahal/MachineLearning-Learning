@@ -7,7 +7,7 @@
 - All material here will be material that has been self-taught, however I will try to keep everything as accurate and as detailed as possible. 
 
 
-## General Project Process:
+### General Project Process:
   - 1) Understanding the problem 
   - 2) Collection of data
   - 3) Data Exploration
@@ -17,7 +17,7 @@
   - 7) Testing and Evaluating the Model
   - 8) End-to-end Deployment
 
-## Personal note(s):
+### Personal note(s):
 A ML project isn't just ML, analysing the data is important.
 ##### 50% ( of the project process regards data analysis, so what I'm currently learning as a data analyst apprentice mustn't be overlooked.
 
