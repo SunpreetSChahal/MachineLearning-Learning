@@ -17,8 +17,8 @@ The general process could look like:
   - 7) Testing and Evaluating the Model
   - 8) End-to-end Deployment
 
-Personal note(s):
+## Personal note(s):
 A ML project isn't just ML, analysing the data is important.
-  - 50% ( of the project process regards data analysis, so what I'm currently learning as a data analyst apprentice mustn't be overlooked.
+##### 50% ( of the project process regards data analysis, so what I'm currently learning as a data analyst apprentice mustn't be overlooked.
 
 Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made. 
