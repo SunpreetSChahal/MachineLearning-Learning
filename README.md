@@ -20,7 +20,4 @@
 ### Personal note(s):
 A ML project isn't just ML, analysing the data is important.
 
-###  *The recommendation system isn't complete, this is because I want understand the underlying theory first.
-*I will return to this project at a later date to finish the system, as for now (04/12/21), I will work on regression projects first - then progress.
-
 Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made. 
