@@ -20,4 +20,6 @@
 ### Personal note(s):
 A ML project isn't just ML, analysing the data is important.
 
-Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made. 
+Please note; this repo contains a notebook for reference for use in future projects, this isn't a project but a *journal* of ML that I made.
+
+![Different ML Models](https://www.researchgate.net/publication/325928183/figure/fig6/AS:640315694252033@1529674566291/Comparison-of-different-types-of-machine-learning.png)
