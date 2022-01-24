@@ -15,6 +15,7 @@
   7) Testing and Evaluating the Model
   8) End-to-end Deployment
 
+### Model Selection:
 ![Different ML Models](https://www.researchgate.net/publication/325928183/figure/fig6/AS:640315694252033@1529674566291/Comparison-of-different-types-of-machine-learning.png)
 
 ### Personal note(s):
