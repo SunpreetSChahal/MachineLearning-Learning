@@ -1,0 +1,42 @@
+INTRODUCTION
+
+Go over;
+- What machine learning is
+- What is the difference between different ML models? Supervised vs Unsupervised vs Reinforcement learning models
+**THINK OF MORE POINTS**
+
+---------------------------------
+GENERAL ML KNOWLEDGE
+- Cover different attributes of a model - like a legend essentially;
+	- MAPE vs MSE vs SSE vs RSS vs RMSE vs MAE 
+	- P-Value
+	- **Look at OLS Linear Regression - Cover each model parameter**
+	- **Look at any parameters printed when fitting a model and write up what each thing is**
+- Different biases;
+	- Selection bias
+	- Undercoverage bias
+	- Survivorship bias
+---------------------------------
+FOR EACH MODEL
+
+**Include a link for each practice project that uses the model in question
+
+Go over;
+- What that model is
+- What that model does
+- General layout of setting each model up
+- If there are special attributes for that model, e.g.;
+	- n_estimators() - Random forest models 
+---------------------------------
+MATHEMATICAL THEORY
+
+**Read Aldo Faisal; Maths behind ML - From Leo** 
+Break up sections for each topic	
+	- Linear Algebra
+	- Calculus 
+	- etc...
+
+---------------------------------
+**ASK SHANGHUA/BRUNO/LEO: **
+
+1) What is the benefit of understanding the mathematical theory behind machine learning, against just knowing the practical knowledge (coding a model)?
