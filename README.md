@@ -1,9 +1,9 @@
 # Machine Learning Development
 
-*This repo will contain my personal development regarind Machine Learning studies*
+*This repo will contain my personal Machine Learning research*
 
 In this repo there's a notebook, a word document (and there will be a final pdf of the doc).
-  - The notebook contains brief examples of every model learned up until that point
+  - The notebook contains brief examples of every model learned up until that point   
   - The document will contain further detailed notes, with emphasis on *really* understanding ML.
 
 ### General Project Process:
